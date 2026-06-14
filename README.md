@@ -34,6 +34,20 @@ detect fraud, and segment customers by value.
 - Fraud detected in 6 transactions above 50,000
 - Credit transactions higher than Debit in total volume
 
+## Skills Demonstrated
+SQL Query Writing
+Data Analysis using SQL
+Aggregate Functions (SUM, COUNT, AVG, MAX, MIN)
+GROUP BY and HAVING
+Conditional Logic using CASE WHEN
+Filtering with WHERE
+Sorting with ORDER BY
+Fraud Detection Scenarios
+Customer Segmentation
+Banking Transaction Analysis
+Business Reporting
+MySQL Database Operations
+
 ## Author
 Yukta Soni
 SQL | Oracle | Python | Azure
